@@ -1,8 +1,8 @@
 menu:
-    Blog: /
-    Archive: /archives/
+    博客: /
+    文档: /archives/
     GitHub: https://github.com/yishuangxi
-    Rss: /atom.xml
+#    Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
