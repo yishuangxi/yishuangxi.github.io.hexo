@@ -71,3 +71,4 @@ deploy:
   type: git
   repo: https://github.com/yishuangxi/yishuangxi.github.io.git
   branch: master
+avatar: /images/avatar.png
